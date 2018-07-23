@@ -3314,7 +3314,7 @@
 
         <!-- Global navbar settings -->
         <activity android:name="Settings$NavigationSettingsActivity"
-                android:label="@string/bottom_nav_navigation_title"
+                android:label="@string/navigationbar_title"
                 android:excludeFromRecents="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
